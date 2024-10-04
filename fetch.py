@@ -13,6 +13,7 @@ mindepth = 0
 maxdepth = 6371
 limit = 99999999
 output_format = 'text'
+
 url = (
     f'https://service.iris.edu/fdsnws/event/1/query?starttime={starttime}'
     f'&endtime={endtime}'
